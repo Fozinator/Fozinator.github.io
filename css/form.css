@@ -1,0 +1,22 @@
+body {
+background-color: lightblue;
+}
+textarea{
+  position:relative;
+  top:0px;
+}
+
+.terms-and-services{
+  postion:absolute;
+  top:0px;
+}
+  .navbar{
+    margin: 0px
+    height:100px;
+    width:100%;
+    background-color: blue;
+    position:fixed;
+    top:0px;
+    z-index: 1;
+
+  }
