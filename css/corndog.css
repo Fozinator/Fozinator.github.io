@@ -6,24 +6,16 @@ textarea{
   top:0px;
 }
 
-.terms-and-services{
-  /*postion:absolute;*/
-  top:0px;
-} 
-  .navbar{
-    margin: 0px;
-    height:100px;
-    width:100%;
-    background-color:blue;
-    position:fixed;
-    top:0px;
-    z-index: 1;
+#kenny{
+  height:200px; width:300px;
+}
+
 
   }
 div{
 color: white;
   text-align: center;
-  background-image:url("../images/bkground.jpg");
+  background-color:F5A422;
   width:500px;
 padding:15px;
 border:3px solid black;
