@@ -1,17 +1,19 @@
 body {
   background-color:F5A422;
 }
-textarea{
-  position:relative;
-  top:0px;
-}
+
 
 #kenny{
   height:200px; width:300px;
 }
 
+#img1{position: absolute;
+    left: 0px;
+    top: 0px;
+    z-index: 2;
 
 }
+
 div{
 
   text-align: center;
