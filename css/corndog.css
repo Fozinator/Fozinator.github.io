@@ -7,15 +7,15 @@ body {
   height:200px; width:300px;
 }
 
-#cob{height:50px;width:100px;
+#cob{height:150px;width:300px;
   position: absolute;
     margin:0px auto;
-    top: 0px;
+    top: 10px;
     z-index: 2;
 }
 
 #pbj{
-  height:200px; width:300px;
+  height:200px; width:150px;
 }
 div{
 
@@ -25,5 +25,5 @@ div{
   padding:15px;
   border:3px solid black;
   /*margin 0*/
-  margin:0px auto;
+  margin:170px auto;
 }
