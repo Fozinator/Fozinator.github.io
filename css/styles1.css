@@ -1,0 +1,15 @@
+body{
+  margin: 0;
+}
+.navbar{
+  margin:0;
+}
+.custom-jumbotron{
+  background-image: url(../images/gt350.jpg);
+  height:600px;
+  background-size:cover;
+}
+/*descendant selector*/
+.how-it-works img{
+  height:500;width:245;
+}
