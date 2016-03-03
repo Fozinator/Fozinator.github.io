@@ -1,5 +1,5 @@
 body {
-background-color: lightblue;
+background-color:lightblue;
 }
 textarea{
   position:relative;
@@ -7,16 +7,26 @@ textarea{
 }
 
 .terms-and-services{
-  postion:absolute;
+  /*postion:absolute;*/
   top:0px;
 }
   .navbar{
     margin: 0px;
     height:100px;
     width:100%;
-    background-color: blue;
+    background-color:blue;
     position:fixed;
     top:0px;
     z-index: 1;
 
   }
+div{
+color: white;
+  text-align: center;
+  background-image:url("../images/bkground.jpg");
+  width:500px;
+padding:15px;
+border:3px solid black;
+/*margin 0*/
+margin:0px auto;
+}
