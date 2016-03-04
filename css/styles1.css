@@ -9,7 +9,13 @@ body{
   height:700px;
   background-size:cover;
 }
+
+.how-it-works{
+  padding-bottom: 25px;
+}
 /*descendant selector*/
+
+
 .how-it-works img{
   height:300;width:145;
 }
@@ -20,4 +26,15 @@ body{
 }
 .stang {
   background-color: lightblue;
+}
+.contact-me{
+  background-color: #000000;
+}
+.contact-me input{
+  margin-top: 10px;
+  margin-bottom: 5px;
+  color:black;
+}
+.contact-me-form{
+  max-width:500px;
 }
