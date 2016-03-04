@@ -6,10 +6,15 @@ body{
 }
 .custom-jumbotron{
   background-image: url(../images/gt350.jpg);
-  height:600px;
+  height:700px;
   background-size:cover;
 }
 /*descendant selector*/
 .how-it-works img{
-  height:500;width:245;
+  height:300;width:145;
+}
+.center-block() {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
