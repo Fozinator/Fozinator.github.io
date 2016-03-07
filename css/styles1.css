@@ -5,7 +5,7 @@ body{
   margin:0;
 }
 .custom-jumbotron{
-  background-image: url(images/gt350.jpg);
+  background-image: url(../images/gt350.jpg);
   height:700px;
   background-size:cover;
 }
